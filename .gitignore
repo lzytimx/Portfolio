@@ -1,5 +1,7 @@
-Cyclistic_google/case_study/
-Cyclistic_google/chicago_shp_files/
-Cyclistic_google/dataset/
-Cyclistic_google/figures/
+.DS_Store
+cyclistic_google/case_study/
+cyclistic_google/chicago_shp_files/
+cyclistic_google/dataset/
+cyclistic_google/figures/
 datasets/
+assessments_technical
