@@ -1,0 +1,170 @@
+﻿alphanumeric_code,station_name_english,station_name_chinese,line_english,line_chinese,line_color,opening,transport_type
+NS1,Jurong East,裕廊东,North-South Line ,南北线,Red,1990-03-10,MRT
+NS2,Bukit Batok,武吉巴督,North-South Line ,南北线,Red,1990-03-10,MRT
+NS3,Bukit Gombak,武吉甘柏,North-South Line ,南北线,Red,1990-03-10,MRT
+NS4,Choa Chu Kang,蔡厝港,North-South Line ,南北线,Red,1990-03-10,MRT
+NS5,Yew Tee,油池,North-South Line ,南北线,Red,1996-02-10,MRT
+NS7,Kranji,克兰芝,North-South Line ,南北线,Red,1996-02-10,MRT
+NS8,Marsiling,马西岭,North-South Line ,南北线,Red,1996-02-10,MRT
+NS9,Woodlands,兀兰,North-South Line ,南北线,Red,1996-02-10,MRT
+NS10,Admiralty,海军部,North-South Line ,南北线,Red,1996-02-10,MRT
+NS11,Sembawang,三巴旺,North-South Line ,南北线,Red,1996-02-10,MRT
+NS12,Canberra,坎贝拉,North-South Line ,南北线,Red,2019-11-02,MRT
+NS13,Yishun,义顺,North-South Line ,南北线,Red,1988-12-20,MRT
+NS14,Khatib,卡迪,North-South Line ,南北线,Red,1988-12-20,MRT
+NS15,Yio Chu Kang,杨厝港,North-South Line ,南北线,Red,1987-11-07,MRT
+NS16,Ang Mo Kio,宏茂桥,North-South Line ,南北线,Red,1987-11-07,MRT
+NS17,Bishan,碧山,North-South Line ,南北线,Red,1987-11-07,MRT
+NS18,Braddell,布莱德,North-South Line ,南北线,Red,1987-11-07,MRT
+NS19,Toa Payoh,大巴窑,North-South Line ,南北线,Red,1987-11-07,MRT
+NS20,Novena,诺维娜,North-South Line ,南北线,Red,1987-12-12,MRT
+NS21,Newton,纽顿,North-South Line ,南北线,Red,1987-12-12,MRT
+NS22,Orchard,乌节,North-South Line ,南北线,Red,1987-12-12,MRT
+NS23,Somerset,索美塞,North-South Line ,南北线,Red,1987-12-12,MRT
+NS24,Dhoby Ghaut,多美歌,North-South Line ,南北线,Red,1987-12-12,MRT
+NS25,City Hall,政府大厦,North-South Line ,南北线,Red,1987-12-12,MRT
+NS26,Raffles Place,莱佛士坊,North-South Line ,南北线,Red,1987-12-12,MRT
+NS27,Marina Bay,滨海湾,North-South Line ,南北线,Red,1989-11-04,MRT
+NS28,Marina South Pier,滨海南码头,North-South Line ,南北线,Red,2014-11-23,MRT
+EW1,Pasir Ris,巴西立,East-West Line,东西线,Green,1989-12-16,MRT
+EW2,Tampines,淡滨尼,East-West Line,东西线,Green,1989-12-16,MRT
+EW3,Simei,四美,East-West Line,东西线,Green,1989-12-16,MRT
+EW4,Tanah Merah,丹那美拉,East-West Line,东西线,Green,1989-11-04,MRT
+EW5,Bedok,勿洛,East-West Line,东西线,Green,1989-11-04,MRT
+EW6,Kembangan,景万岸,East-West Line,东西线,Green,1989-11-04,MRT
+EW7,Eunos,友诺士,East-West Line,东西线,Green,1989-11-04,MRT
+EW8,Paya Lebar,巴耶利峇,East-West Line,东西线,Green,1989-11-04,MRT
+EW9,Aljunied,阿裕尼,East-West Line,东西线,Green,1989-11-04,MRT
+EW10,Kallang,加冷,East-West Line,东西线,Green,1989-11-04,MRT
+EW11,Lavender,劳明达,East-West Line,东西线,Green,1989-11-04,MRT
+EW12,Bugis,武吉士,East-West Line,东西线,Green,1989-11-04,MRT
+EW13,City Hall,政府大厦,East-West Line,东西线,Green,1987-12-12,MRT
+EW14,Raffles Place,莱佛士坊,East-West Line,东西线,Green,1987-12-12,MRT
+EW15,Tanjong Pagar,丹戎巴葛,East-West Line,东西线,Green,1987-12-12,MRT
+EW16,Outram Park,欧南园,East-West Line,东西线,Green,1987-12-12,MRT
+EW17,Tiong Bahru,中峇鲁,East-West Line,东西线,Green,1988-03-12,MRT
+EW18,Redhill,红山,East-West Line,东西线,Green,1988-03-12,MRT
+EW19,Queenstown,女皇镇,East-West Line,东西线,Green,1988-03-12,MRT
+EW20,Commonwealth,联邦,East-West Line,东西线,Green,1988-03-12,MRT
+EW21,Buona Vista,波那维斯达,East-West Line,东西线,Green,1988-03-12,MRT
+EW22,Dover,杜弗,East-West Line,东西线,Green,2001-10-18,MRT
+EW23,Clementi,金文泰,East-West Line,东西线,Green,1988-03-12,MRT
+EW24,Jurong East,裕廊东,East-West Line,东西线,Green,1988-11-05,MRT
+EW25,Chinese Garden,裕华园,East-West Line,东西线,Green,1988-11-05,MRT
+EW26,Lakeside,湖畔,East-West Line,东西线,Green,1988-11-05,MRT
+EW27,Boon Lay,文礼,East-West Line,东西线,Green,1990-07-06,MRT
+EW28,Pioneer,先驱,East-West Line,东西线,Green,2009-02-28,MRT
+EW29,Joo Koon,裕群,East-West Line,东西线,Green,2009-02-28,MRT
+EW30,Gul Circle,卡尔圈,East-West Line,东西线,Green,2017-06-18,MRT
+EW31,Tuas Crescent,大士弯,East-West Line,东西线,Green,2017-06-18,MRT
+EW32,Tuas West Road,大士西路,East-West Line,东西线,Green,2017-06-18,MRT
+EW33,Tuas Link,大士连路,East-West Line,东西线,Green,2017-06-18,MRT
+CG1,Expo,博览,Changi Airport Branch Line,樟宜机场支线,Green,2001-01-10,MRT
+CG2,Changi Airport,樟宜机场,Changi Airport Branch Line,樟宜机场支线,Green,2002-02-08,MRT
+NE1,HarbourFront,港湾,North East Line,东北线,Purple,2003-06-20,MRT
+NE3,Outram Park,欧南园,North East Line,东北线,Purple,2003-06-20,MRT
+NE4,Chinatown,牛车水,North East Line,东北线,Purple,2003-06-20,MRT
+NE5,Clarke Quay,克拉码头,North East Line,东北线,Purple,2003-06-20,MRT
+NE6,Dhoby Ghaut,多美歌,North East Line,东北线,Purple,2003-06-20,MRT
+NE7,Little India,小印度,North East Line,东北线,Purple,2003-06-20,MRT
+NE8,Farrer Park,花拉公园,North East Line,东北线,Purple,2003-06-20,MRT
+NE9,Boon Keng,文庆,North East Line,东北线,Purple,2003-06-20,MRT
+NE10,Potong Pasir,波东巴西,North East Line,东北线,Purple,2003-06-20,MRT
+NE11,Woodleigh,兀里,North East Line,东北线,Purple,2011-06-20,MRT
+NE12,Serangoon,实龙岗,North East Line,东北线,Purple,2003-06-20,MRT
+NE13,Kovan,高文,North East Line,东北线,Purple,2003-06-20,MRT
+NE14,Hougang,后港,North East Line,东北线,Purple,2003-06-20,MRT
+NE15,Buangkok,万国,North East Line,东北线,Purple,2006-01-15,MRT
+NE16,Sengkang,盛港,North East Line,东北线,Purple,2003-06-20,MRT
+NE17,Punggol,榜鹅,North East Line,东北线,Purple,2003-06-20,MRT
+CC1,Dhoby Ghaut,多美歌,Circle Line,环线,Orange,2010-04-17,MRT
+CC2,Bras Basah,百胜,Circle Line,环线,Orange,2010-04-17,MRT
+CC3,Esplanade,滨海中心,Circle Line,环线,Orange,2010-04-17,MRT
+CC4,Promenade,宝门廊,Circle Line,环线,Orange,2010-04-17,MRT
+CC5,Nicoll Highway,尼诰大道,Circle Line,环线,Orange,2010-04-17,MRT
+CC6,Stadium,体育场,Circle Line,环线,Orange,2010-04-17,MRT
+CC7,Mountbatten,蒙巴登,Circle Line,环线,Orange,2010-04-17,MRT
+CC8,Dakota,达科达,Circle Line,环线,Orange,2010-04-17,MRT
+CC9,Paya Lebar,巴耶利峇,Circle Line,环线,Orange,2010-04-17,MRT
+CC10,MacPherson,麦波申,Circle Line,环线,Orange,2010-04-17,MRT
+CC11,Tai Seng,大成,Circle Line,环线,Orange,2010-04-17,MRT
+CC12,Bartley,巴特礼,Circle Line,环线,Orange,2009-05-28,MRT
+CC13,Serangoon,实龙岗,Circle Line,环线,Orange,2009-05-28,MRT
+CC14,Lorong Chuan,罗弄泉,Circle Line,环线,Orange,2009-05-28,MRT
+CC15,Bishan,碧山,Circle Line,环线,Orange,2009-05-28,MRT
+CC16,Marymount,玛丽蒙,Circle Line,环线,Orange,2009-05-28,MRT
+CC17,Caldecott,加利谷,Circle Line,环线,Orange,2011-10-08,MRT
+CC19,Botanic Gardens,植物园,Circle Line,环线,Orange,2011-10-08,MRT
+CC20,Farrer Road,花拉路,Circle Line,环线,Orange,2011-10-08,MRT
+CC21,Holland Village,荷兰村,Circle Line,环线,Orange,2011-10-08,MRT
+CC22,Buona Vista,波那维斯达,Circle Line,环线,Orange,2011-10-08,MRT
+CC23,one-north,纬壹,Circle Line,环线,Orange,2011-10-08,MRT
+CC24,Kent Ridge,肯特岗,Circle Line,环线,Orange,2011-10-08,MRT
+CC25,Haw Par Villa,虎豹别墅,Circle Line,环线,Orange,2011-10-08,MRT
+CC26,Pasir Panjang,巴西班让,Circle Line,环线,Orange,2011-10-08,MRT
+CC27,Labrador Park,拉柏多公园,Circle Line,环线,Orange,2011-10-08,MRT
+CC28,Telok Blangah,直落布兰雅,Circle Line,环线,Orange,2011-10-08,MRT
+CC29,HarbourFront,港湾,Circle Line,环线,Orange,2011-10-08,MRT
+CE1,Bayfront,海湾舫,Circle Line Extension,环线延长线,Orange,2012-01-14,MRT
+CE2,Marina Bay,滨海湾,Circle Line Extension,环线延长线,Orange,2012-01-14,MRT
+DT1,Bukit Panjang,武吉班让,Downtown Line,滨海市区线,Blue,2015-12-27,MRT
+DT2,Cashew,凯秀,Downtown Line,滨海市区线,Blue,2015-12-27,MRT
+DT3,Hillview,山景,Downtown Line,滨海市区线,Blue,2015-12-27,MRT
+DT5,Beauty World,美世界,Downtown Line,滨海市区线,Blue,2015-12-27,MRT
+DT6,King Albert Park,阿尔柏王园,Downtown Line,滨海市区线,Blue,2015-12-27,MRT
+DT7,Sixth Avenue,第六道,Downtown Line,滨海市区线,Blue,2015-12-27,MRT
+DT8,Tan Kah Kee,陈嘉庚,Downtown Line,滨海市区线,Blue,2015-12-27,MRT
+DT9,Botanic Gardens,植物园,Downtown Line,滨海市区线,Blue,2015-12-27,MRT
+DT10,Stevens,史蒂芬,Downtown Line,滨海市区线,Blue,2015-12-27,MRT
+DT11,Newton,纽顿,Downtown Line,滨海市区线,Blue,2015-12-27,MRT
+DT12,Little India,小印度,Downtown Line,滨海市区线,Blue,2015-12-27,MRT
+DT13,Rochor,梧槽,Downtown Line,滨海市区线,Blue,2015-12-27,MRT
+DT14,Bugis,武吉士,Downtown Line,滨海市区线,Blue,2013-12-22,MRT
+DT15,Promenade,宝门廊,Downtown Line,滨海市区线,Blue,2013-12-22,MRT
+DT16,Bayfront,海湾舫,Downtown Line,滨海市区线,Blue,2013-12-22,MRT
+DT17,Downtown,市中心,Downtown Line,滨海市区线 ,Blue,2013-12-22,MRT
+DT18,Telok Ayer,直落亚逸,Downtown Line,滨海市区线,Blue,2013-12-22,MRT
+DT19,Chinatown,牛车水,Downtown Line,滨海市区线,Blue,2013-12-22,MRT
+DT20,Fort Canning,福康宁,Downtown Line,滨海市区线,Blue,2017-10-21,MRT
+DT21,Bencoolen,明古连,Downtown Line,滨海市区线,Blue,2017-10-21,MRT
+DT22,Jalan Besar,惹兰勿刹,Downtown Line,滨海市区线,Blue,2017-10-21,MRT
+DT23,Bendemeer,明地迷亚,Downtown Line,滨海市区线,Blue,2017-10-21,MRT
+DT24,Geylang Bahru,芽笼峇鲁,Downtown Line,滨海市区线,Blue,2017-10-21,MRT
+DT25,Mattar,玛达,Downtown Line,滨海市区线,Blue,2017-10-21,MRT
+DT26,MacPherson,麦波申,Downtown Line,滨海市区线,Blue,2017-10-21,MRT
+DT27,Ubi,乌美,Downtown Line,滨海市区线,Blue,2017-10-21,MRT
+DT28,Kaki Bukit,加基武吉,Downtown Line,滨海市区线,Blue,2017-10-21,MRT
+DT29,Bedok North,勿洛北,Downtown Line,滨海市区线,Blue,2017-10-21,MRT
+DT30,Bedok Reservoir,勿洛蓄水池,Downtown Line,滨海市区线,Blue,2017-10-21,MRT
+DT31,Tampines West,淡滨尼西,Downtown Line,滨海市区线,Blue,2017-10-21,MRT
+DT32,Tampines,淡滨尼,Downtown Line,滨海市区线,Blue,2017-10-21,MRT
+DT33,Tampines East,淡滨尼东,Downtown Line,滨海市区线,Blue,2017-10-21,MRT
+DT34,Upper Changi,樟宜上段,Downtown Line,滨海市区线,Blue,2017-10-21,MRT
+DT35,Expo,博览,Downtown Line,滨海市区线,Blue,2017-10-21,MRT
+TE1,Woodlands North,兀兰北,Thomson-East Coast Line,汤申-东海岸线,Brown,2020-01-31,MRT
+TE2,Woodlands,兀兰,Thomson-East Coast Line,汤申-东海岸线,Brown,2020-01-31,MRT
+TE3,Woodlands South,兀兰南,Thomson-East Coast Line,汤申-东海岸线,Brown,2020-01-31,MRT
+TE4,Springleaf,春叶,Thomson-East Coast Line,汤申-东海岸线,Brown,2021-08-28,MRT
+TE5,Lentor,伦多,Thomson-East Coast Line,汤申-东海岸线,Brown,2021-08-28,MRT
+TE6,Mayflower,美华,Thomson-East Coast Line,汤申-东海岸线,Brown,2021-08-28,MRT
+TE7,Bright Hill,光明山,Thomson-East Coast Line,汤申-东海岸线,Brown,2021-08-28,MRT
+TE8,Upper Thomson,汤申路上段,Thomson-East Coast Line,汤申-东海岸线,Brown,2021-08-28,MRT
+TE9,Caldecott,加利谷,Thomson-East Coast Line,汤申-东海岸线,Brown,2021-08-28,MRT
+TE11,Stevens,史蒂芬,Thomson-East Coast Line,汤申-东海岸线,Brown,2022-11-13,MRT
+TE12,Napier,纳比雅,Thomson-East Coast Line,汤申-东海岸线,Brown,2022-11-13,MRT
+TE13,Orchard Boulevard,乌节大道,Thomson-East Coast Line,汤申-东海岸线,Brown,2022-11-13,MRT
+TE14,Orchard,乌节,Thomson-East Coast Line,汤申-东海岸线,Brown,2022-11-13,MRT
+TE15,Great World,大世界,Thomson-East Coast Line,汤申-东海岸线,Brown,2022-11-13,MRT
+TE16,Havelock,合乐,Thomson-East Coast Line,汤申-东海岸线,Brown,2022-11-13,MRT
+TE17,Outram Park,欧南园,Thomson-East Coast Line,汤申-东海岸线,Brown,2022-11-13,MRT
+TE18,Maxwell,麦士威,Thomson-East Coast Line,汤申-东海岸线,Brown,2022-11-13,MRT
+TE19,Shenton Way,珊顿道,Thomson-East Coast Line,汤申-东海岸线,Brown,2022-11-13,MRT
+TE20,Marina Bay,滨海湾,Thomson-East Coast Line,汤申-东海岸线,Brown,2022-11-13,MRT
+TE22,Gardens by the Bay,滨海湾花园,Thomson-East Coast Line,汤申-东海岸线,Brown,2022-11-13,MRT
+TE23,Tanjong Rhu,丹戎禺,Thomson-East Coast Line,汤申-东海岸线,Brown,2024-06-23,MRT
+TE24,Katong Park,加东公园,Thomson-East Coast Line,汤申-东海岸线,Brown,2024-06-23,MRT
+TE25,Tanjong Katong,丹戎加东,Thomson-East Coast Line,汤申-东海岸线,Brown,2024-06-23,MRT
+TE26,Marine Parade,马林百列,Thomson-East Coast Line,汤申-东海岸线,Brown,2024-06-23,MRT
+TE27,Marine Terrace,马林台,Thomson-East Coast Line,汤申-东海岸线,Brown,2024-06-23,MRT
+TE28,Siglap,实乞纳,Thomson-East Coast Line,汤申-东海岸线,Brown,2024-06-23,MRT
+TE29,Bayshore,碧湾,Thomson-East Coast Line,汤申-东海岸线,Brown,2024-06-23,MRT

@@ -1,0 +1,1 @@
+This is a collection of fun mini projects that I have done. Quite a number are related to the expected amount of gain/losses from gambling games like blackjack. 

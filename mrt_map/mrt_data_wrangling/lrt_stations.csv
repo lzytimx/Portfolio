@@ -1,0 +1,42 @@
+﻿alphanumeric_code,station_name_english,station_name_chinese,line_english,line_chinese,line_color,opening,transport_type
+BP1,Choa Chu Kang,蔡厝港,Bukit Panjang LRT,榜鹅轻轨线,Grey,1999-11-06,LRT
+BP2,South View,南景,Bukit Panjang LRT,武吉班让轻轨线,Grey,1999-11-06,LRT
+BP3,Keat Hong,吉丰,Bukit Panjang LRT,武吉班让轻轨线,Grey,1999-11-06,LRT
+BP4,Teck Whye,德惠,Bukit Panjang LRT,武吉班让轻轨线,Grey,1999-11-06,LRT
+BP5,Phoenix,凤凰,Bukit Panjang LRT,武吉班让轻轨线,Grey,1999-11-06,LRT
+BP6,Bukit Panjang,武吉班让,Bukit Panjang LRT,武吉班让轻轨线,Grey,1999-11-06,LRT
+BP7,Petir,柏提,Bukit Panjang LRT,武吉班让轻轨线,Grey,1999-11-06,LRT
+BP8,Pending,秉定,Bukit Panjang LRT,武吉班让轻轨线,Grey,1999-11-06,LRT
+BP9,Bangkit,万吉,Bukit Panjang LRT,武吉班让轻轨线,Grey,1999-11-06,LRT
+BP10,Fajar,法嘉,Bukit Panjang LRT,武吉班让轻轨线,Grey,1999-11-06,LRT
+BP11,Segar,实加,Bukit Panjang LRT,武吉班让轻轨线,Grey,1999-11-06,LRT
+BP12,Jelapang,泽拉邦,Bukit Panjang LRT,武吉班让轻轨线,Grey,1999-11-06,LRT
+BP13,Senja,信佳,Bukit Panjang LRT,武吉班让轻轨线,Grey,1999-11-06,LRT
+STC,Sengkang,盛港,Sengkang LRT,武吉班让轻轨线,Grey,2003-01-18,LRT
+SE1,Compassvale,康埔桦,Sengkang LRT,盛港轻轨线,Grey,2003-01-18,LRT
+SE2,Rumbia,棕美,Sengkang LRT,盛港轻轨线,Grey,2003-01-18,LRT
+SE3,Bakau,码高,Sengkang LRT,盛港轻轨线,Grey,2003-01-18,LRT
+SE4,Kangkar,港脚,Sengkang LRT,盛港轻轨线,Grey,2003-01-18,LRT
+SE5,Ranggung,兰岗,Sengkang LRT,盛港轻轨线,Grey,2003-01-18,LRT
+SW1,Cheng Lim,振林,Sengkang LRT,盛港轻轨线,Grey,2013-01-01,LRT
+SW2,Farmway,农道,Sengkang LRT,盛港轻轨线,Grey,2007-11-15,LRT
+SW3,Kupang,古邦,Sengkang LRT,盛港轻轨线,Grey,2015-06-27,LRT
+SW4,Thanggam,丹甘,Sengkang LRT,盛港轻轨线,Grey,2005-01-29,LRT
+SW5,Fernvale,芬微,Sengkang LRT,盛港轻轨线,Grey,2005-01-29,LRT
+SW6,Layar,拉雅,Sengkang LRT,盛港轻轨线,Grey,2005-01-29,LRT
+SW7,Tongkang,同港,Sengkang LRT,盛港轻轨线,Grey,2005-01-29,LRT
+SW8,Renjong,仁宗,Sengkang LRT,盛港轻轨线,Grey,2005-01-29,LRT
+PTC,Punggol,榜鹅,Punggol LRT,盛港轻轨线,Grey,2005-01-29,LRT
+PE1,Cove,海湾,Punggol LRT,榜鹅轻轨线,Grey,2005-01-29,LRT
+PE2,Meridian,丽园,Punggol LRT,榜鹅轻轨线,Grey,2005-01-29,LRT
+PE3,Coral Edge,珊瑚,Punggol LRT,榜鹅轻轨线,Grey,2005-01-29,LRT
+PE4,Riviera,里维拉,Punggol LRT,榜鹅轻轨线,Grey,2005-01-29,LRT
+PE5,Kadaloor,卡达鲁,Punggol LRT,榜鹅轻轨线,Grey,2005-01-29,LRT
+PE6,Oasis,绿洲,Punggol LRT,榜鹅轻轨线,Grey,2007-06-15,LRT
+PE7,Damai,达迈,Punggol LRT,榜鹅轻轨线,Grey,2011-06-20,LRT
+PW1,Sam Kee,三记,Punggol LRT,榜鹅轻轨线,Grey,2016-02-29,LRT
+PW3,Punggol Point,榜鹅坊,Punggol LRT,榜鹅轻轨线,Grey,2016-12-29,LRT
+PW4,Samudera,山姆,Punggol LRT,榜鹅轻轨线,Grey,2017-03-31,LRT
+PW5,Nibong,尼蒙,Punggol LRT,榜鹅轻轨线,Grey,2014-06-29,LRT
+PW6,Sumang,苏芒,Punggol LRT,榜鹅轻轨线,Grey,2014-06-29,LRT
+PW7,Soo Teck,树德,Punggol LRT,榜鹅轻轨线,Grey,2014-06-29,LRT
