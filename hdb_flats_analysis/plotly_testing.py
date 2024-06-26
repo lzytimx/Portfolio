@@ -31,7 +31,7 @@ resale_df["remaining_lease"] = resale_df["lease_commence_date"].apply(
     ).years
 )
 
-mrt_lrt_file_loc = "mrt_lrt_stations_for_plotly.csv"
+mrt_lrt_file_loc = "../datasets/mrt_lrt_stations.csv"
 mrt_df = pd.read_csv(mrt_lrt_file_loc, index_col=0)
 
 mrt_lines = mrt_df["color"].unique()
@@ -45,7 +45,7 @@ mrt_line_color_dict = {
     "Grey": "#8c958c",
 }
 
-school_file_loc = "schools_for_plotly.csv"
+school_file_loc = "../datasets/schools_for_plotly.csv"
 school_df = pd.read_csv(school_file_loc, index_col=0)
 school_df = school_df.query("mainlevel_code in ['PRIMARY', 'MIXED LEVELS']")
 
