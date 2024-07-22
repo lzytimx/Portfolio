@@ -14,7 +14,7 @@ from dash import Dash, dash_table, dcc, html
 from dash.dependencies import Input, Output, State
 from dateutil.relativedelta import relativedelta
 
-resale_file_loc = "../datasets/resale_hdb_price_coords_mrt_01jul.csv"
+resale_file_loc = "../datasets/resale_hdb_price_coords_mrt_22jul.csv"
 resale_df = pd.read_csv(
     resale_file_loc,
     parse_dates=["month", "lease_commence_date"],
@@ -734,7 +734,7 @@ tab3_card = dbc.Card(dbc.CardBody([t3_general_info, t3_figures]), class_name="mt
 
 tabs = dbc.Tabs(
     [
-        dbc.Tab(tab1_card, label="Tab 1"),
+        dbc.Tab(tab1_card, label="Trends"),
         dbc.Tab(tab2_card, label="Map"),
         dbc.Tab(tab3_card, label="Million-dollar Flats"),
     ],
