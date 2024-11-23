@@ -14,7 +14,7 @@ from dash import Dash, dash_table, dcc, html
 from dash.dependencies import Input, Output, State
 from dateutil.relativedelta import relativedelta
 
-resale_file_loc = "../datasets/resale_hdb_price_coords_mrt_22jul.csv"
+resale_file_loc = "../datasets/resale_hdb_price_coords_mrt_31oct.csv"
 resale_df = pd.read_csv(
     resale_file_loc,
     parse_dates=["month", "lease_commence_date"],
