@@ -1,13 +1,11 @@
 **/.DS_Store
 **/.ipynb_checkpoints
+**dataset/
+**datasets/
 cyclistic_google/case_study/
 cyclistic_google/chicago_shp_files/
-cyclistic_google/dataset/
 cyclistic_google/figures/
-datasets/
 assessments_technical
 bellabeat_google/dataset/
 bellabeat_google/case_study/
-house_price_prediction/dataset/
-kaggle/S4EP01/dataset
 hdb_flats_analysis/utility

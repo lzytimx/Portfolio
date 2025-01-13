@@ -1,5 +1,5 @@
 Title: 
-- HDB Resale Flat Price (Jan 2017 - October 2024)
+- HDB Resale Flat Price (Jan 2017 - December 2024)
 
 Abstract:
 - The HDB Resale Flat Price dataset (henceforth known as "dataset") is an accumulation of information relating to the sale of Singapore's public housing apartments colloquially known as "flats". Each record is one resale flat price transaction, with information describing the transaction of the sale and the features of the apartment. 
@@ -20,7 +20,7 @@ Creator(s): Housing and Development Board (HDB), Singapore
 
 Geographic Coverage: Singapore
 
-Temporal Coverage: January 2017 - October 2024
+Temporal Coverage: January 2017 - December 2024
 
 Column Information:
 'month'                             - The month of flat transaction
